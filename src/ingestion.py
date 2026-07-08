@@ -6,9 +6,9 @@ ROOT_DIR = Path(__file__).parent.parent.resolve()
 
 
 data = {
-    "Name": ["Karu", "Saru", "Paru"],
-    "Age": [13, 14, 15],
-    "City": ["Delhi", "Pune", "Bangalore"]
+    "Name": ["Alice","Karu", "Saru", "Paru"],
+    "Age": [10, 13, 14, 15],
+    "City": ["Delhi", "Delhi", "Pune", "Bangalore"]
 }
 
 
